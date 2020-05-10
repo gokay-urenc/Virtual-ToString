@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\bin\Debug\Virtual_ToString.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\bin\Debug\Virtual_ToString.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\bin\Debug\Virtual_ToString.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\bin\Debug\Virtual_ToString.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\bin\Debug\Virtual_ToString.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\bin\Debug\Virtual_ToString.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Virtual_ToString\Virtual_ToString\obj\Debug\Virtual_ToString.pdb
